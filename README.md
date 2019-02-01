@@ -1,2 +1,0 @@
-# AGRI-Union
-U-HACK 2018
